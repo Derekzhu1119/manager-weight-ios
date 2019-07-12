@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  weightManage
+
+  Created by iss on 2019/6/20.
+  Copyright © 2019 iss. All rights reserved.
+*/
+
+
+//login
+"login_loginBtn" = "登录";
+"login_secrectLogin" = "密码登录";
+"login_PleaseEnterAccount" = "请输入用户名";
+"login_PleaseEnterPassword" = "请输入密码";
+"login_ReigstBtn" = "注 册";
+"login_protecol" = "登录即代表同意 Balance 用户协议 和 隐私协议";
+"login_userprotecol" = "用户协议";
+"login_privacyprotecol" = "隐私协议";
+
+
+//regist
+"regist_startReigist" = "开始注册";
+"regist_PleaseEnterAccount" = "请输入用户名";
+"regist_PleaseEnterPassword" = "请输入密码";
+"regist_PleaseConfimPassword" = "再次确认";
+"regist_Sure" = "确 认";
+"regist_UserNamesShouldBeginWithLetters" = "用户名需以字母开头";
+"regist_PasswordLengthShouldNotBeLessThanSixBits" = "密码长度不能小于6位";
+"regist_PasswordInconsistent" = "密码不一致";
+"regist_registrationSuccess" = "注册成功";
+

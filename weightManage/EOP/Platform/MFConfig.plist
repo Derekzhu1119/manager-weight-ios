@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MFProperties</key>
+	<dict>
+		<key>TypeFlag</key>
+		<string>pro</string>
+		<key>ApiHost</key>
+		<string>https://app.derekzhu.site/manager-weight</string>
+		<key>htmlHost</key>
+		<string>https://app.derekzhu.site</string>
+		<key>URLSchemeType</key>
+		<string>https</string>
+	</dict>
+	<key>MFFunctions</key>
+	<dict>
+		<key>ShareSDK</key>
+		<dict>
+			<key>ShareSDKKey</key>
+			<string>2b71ffef2fe78</string>
+			<key>ShareWeiKey</key>
+			<string>wx3899faae29b5063d</string>
+			<key>ShareWeiSecret</key>
+			<string>53fb90605736825011f69a888e6746d4</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

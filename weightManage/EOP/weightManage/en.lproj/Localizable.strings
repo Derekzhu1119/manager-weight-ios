@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  weightManage
+
+  Created by iss on 2019/6/20.
+  Copyright © 2019 iss. All rights reserved.
+*/
+
+//login
+"login_loginBtn" = "Login";
+"login_secrectLogin" = "Password login";
+"login_PleaseEnterAccount" = "Please Enter Account";
+"login_PleaseEnterPassword" = "Please Enter Password";
+"login_ReigstBtn" = "Reigst";
+"login_protecol" = "Login means consent to Balance User Protocol and Privacy Protocol";
+"login_userprotecol" = "User Protocol";
+"login_privacyprotecol" = "Privacy Protocol";
+
+//regist
+"regist_startReigist" = "Start Reigist";
+"regist_PleaseEnterAccount" = "Please Enter Account";
+"regist_PleaseEnterPassword" = "Please Enter Password";
+"regist_PleaseConfimPassword" = "Please Confim Password";
+"regist_Sure" = "Sure";
+"regist_UserNamesShouldBeginWithLetters" = "Account should begin with letters";
+"regist_PasswordLengthShouldNotBeLessThanSixBits" = "Password length should not be less than six bits";
+"regist_PasswordInconsistent" = "Password inconsistent";
+"regist_registrationSuccess" = "registration success";

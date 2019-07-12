@@ -1,0 +1,17 @@
+target 'weightManage'do
+
+pod 'Cordova', '~> 4.5.4'
+
+pod 'AFNetworking', '~> 3.0'
+
+pod 'MBProgressHUD' , '~> 1.1.0'
+
+pod 'IQKeyboardManager'
+
+#友盟
+pod 'UMCCommon'
+pod 'UMCSecurityPlugins'  #基础库
+pod 'UMCAnalytics'   #分析库
+pod 'UMCCommonLog'  #开发阶段进行调试SDK及相关功能使用，可在发布 App 前移除
+
+end
